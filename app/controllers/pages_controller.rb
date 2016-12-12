@@ -4,4 +4,12 @@ class PagesController < ApplicationController
 
   def restaurant
   end
+
+  def dish
+  end
+
+  def result
+  end
+  
+
 end
